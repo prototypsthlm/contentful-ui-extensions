@@ -1,5 +1,6 @@
 {
   "id": "random-default-string",
+  "widgetId": "randomDefaultString",
   "name": "Random default string",
   "srcdoc": "./index.html",
   "fieldTypes": ["Symbol"],
