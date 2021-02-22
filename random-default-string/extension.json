@@ -1,0 +1,18 @@
+{
+  "id": "random-default-string",
+  "name": "Random default string",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Symbol"],
+  "parameters": {
+    "instance": [
+      {
+        "id": "length",
+        "type": "Number",
+        "name": "String length",
+        "description": "The length of the generated random string",
+        "default": 8,
+        "required": true
+      }
+    ]
+  }
+}
